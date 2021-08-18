@@ -1,0 +1,18 @@
+:root {
+    --primary: #6C80EA;
+    --secondary: #A7A5EC;
+    --main: #00030F;
+    --paper: rgba(255, 255, 255, 0.25);
+
+}
+
+* {
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--main);
+    color: var(--paper);
+}

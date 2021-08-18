@@ -1,0 +1,22 @@
+header {
+    width: 100%;
+    max-width: 1440px;
+ 
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly; 
+}
+
+.logo {
+    margin: 10px 30px 10px;
+    padding-right: 100px;
+}
+
+.search{
+
+    margin: 10px 30px 10px;
+    display: flex;
+    
+    
+}
+

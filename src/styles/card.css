@@ -1,0 +1,44 @@
+.container {
+    width: 250px;
+    height: 400px;
+    
+    margin-right:40px;
+
+}
+.infos {
+    width: 280px;
+    height: 380px;
+    border-radius:16px;
+    background: var(--paper);
+    margin-left: 20px;
+}
+
+.infos img {
+    width: 280px;
+    border-radius: 16px 16px 0px 0px;
+    border-bottom: 1px solid var(--black);
+
+}
+
+ h3, span{
+    padding-left: 5px;
+    
+    color: #fff;
+}
+
+h3 {
+    display: inline-block;
+    justify-content: space-between;
+
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+}
+
+span {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+
+}
+

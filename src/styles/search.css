@@ -1,0 +1,39 @@
+.search{
+
+    margin: 10px 30px 10px;
+    display: flex;
+    
+    
+}
+
+.search input {
+    width: 350px;
+    height: 60px;
+
+    background: #DCDAF6;
+
+    border: 4px solid #6C80EA;
+    border-radius: 15px 0px 0px 15px;
+
+
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 40px;
+
+    color: #656565;
+
+    padding-left: 20px;
+    outline: none;
+}
+
+.search button {
+    width: 60px; 
+    height: 60px;
+    border: none;
+    border-radius: 0px 15px 15px 0px;
+
+    background: #6C80EA;
+
+    cursor: pointer;
+    outline: none;
+}
